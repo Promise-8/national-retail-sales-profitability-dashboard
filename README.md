@@ -11,7 +11,7 @@ through interactive KPIs and visual analysis.
 
 ## Dashboard Preview
 
-![National Retail Co. Dashboard](dashboard/retail-dashboard.png)
+![National Retail Co. Dashboard](dashboard/Retail_Dashboard.png)
 
 ## Key Performance Indicators
 
